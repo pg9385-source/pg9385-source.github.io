@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content=“單身尊榮男士專屬｜優娜伴遊 私人女友級旅行伴遊。亞洲5日10萬起，全程一人一室、不紅眼航班、像女友一樣全程陪你玩遍世界。不想一個人出國、不想跟大團？立即 Line 本人回覆預約！">
+  <meta name="keywords" content="優娜伴遊, 私人伴遊, 女友級伴遊, 單身男士旅行伴遊, 有錢有閑出國, 單身富豪旅行, 私人旅行女友, 亞洲歐美伴遊, 一人一室旅行, 私人跟團伴遊">
+  <title>小屏伴遊｜單身有錢有閑男士 私人女友級旅行伴遊 - 亞洲歐美全程陪玩 10萬起</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { font-family: "Microsoft JhengHei", system-ui, sans-serif; }
+    .hero-bg { background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://picsum.photos/2000/1200?random=rich-man-travel'); background-size: cover; background-position: center; }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-900">
+
+  <!-- 導覽列 -->
+  <nav class="bg-white shadow-lg fixed w-full z-50">
+    <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+      <h1 class="text-3xl font-bold text-pink-600">優娜伴遊</h1>
+      <div class="space-x-8 text-lg font-medium">
+        <a href="#home" class="hover:text-pink-600">首頁</a>
+        <a href="#service" class="hover:text-pink-600">服務</a>
+        <a href="#itinerary" class="hover:text-pink-600">行程參考</a>
+        <a href="#price" class="hover:text-pink-600">費用</a>
+        <a href="#book" class="hover:text-pink-600">立即預約</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero - SEO 主關鍵字優化 -->
+  <section id="home" class="hero-bg h-screen flex items-center justify-center text-white text-center">
+    <div class="max-w-4xl px-6">
+      <h2 class="text-5xl md:text-6xl font-bold mb-6">單身有錢有閑男士專屬</h2>
+      <p class="text-3xl md:text-4xl mb-8">不想一個人出國？不想跟大團被綁？<br>讓我當你的私人女友級旅行伴遊</p>
+      <p class="text-2xl mb-10">全程像女友一樣陪你玩遍亞洲・歐美<br>拍照・聊天・吃美食・創造專屬回憶</p>
+      <a href="#book" class="inline-block bg-pink-600 hover:bg-pink-700 px-12 py-5 rounded-full text-2xl font-bold">立即 Line 預約跟我出發</a>
+    </div>
+  </section>
+
+  <!-- 關於我簡介 -->
+  <section class="py-16 bg-white">
+    <div class="max-w-4xl mx-auto px-6 text-center">
+      <h2 class="text-4xl font-bold mb-8">為什麼單身尊榮男士都選優娜伴遊？</h2>
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="bg-gray-50 p-8 rounded-3xl">
+          👩‍❤️‍👨<br>
+          <span class="font-bold text-xl block mt-4">女友級陪伴</span><br>
+          <span class="text-gray-600">全程有人聊天、拍照、解悶</span>
+        </div>
+        <div class="bg-gray-50 p-8 rounded-3xl">
+          🛡️<br>
+          <span class="font-bold text-xl block mt-4">安全一人一室</span><br>
+          <span class="text-gray-600">全程保障雙方財務與人身安全</span>
+        </div>
+        <div class="bg-gray-50 p-8 rounded-3xl">
+          ✈️<br>
+          <span class="font-bold text-xl block mt-4">不紅眼・不廉航</span><br>
+          <span class="text-gray-600">只搭安全航空，睡好玩好</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 服務項目 -->
+  <section id="service" class="py-20 bg-gray-100">
+    <div class="max-w-6xl mx-auto px-6">
+      <h2 class="text-4xl font-bold text-center mb-12">單身男士專屬服務項目</h2>
+      <div class="grid md:grid-cols-2 gap-12">
+        <div class="bg-white rounded-3xl shadow-xl overflow-hidden">
+          <div class="bg-green-600 text-white p-8 text-center">
+            🌏 亞洲地區（日本・韓國・泰國・越南等）
+          </div>
+          <div class="p-10 text-lg">5日內全程女友陪伴<br>參考各大旅行社跟團行程</div>
+        </div>
+        <div class="bg-white rounded-3xl shadow-xl overflow-hidden">
+          <div class="bg-purple-600 text-white p-8 text-center">
+            🌍 非亞洲地區（歐洲・美加・紐澳等）
+          </div>
+          <div class="p-10 text-lg">長程私人規劃<br>客製化兩人自由行也可</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 行程參考（保持連結） -->
+  <section id="itinerary" class="py-20 bg-white">
+    <div class="max-w-6xl mx-auto px-6">
+      <h2 class="text-4xl font-bold text-center mb-4">各大旅行社行程參考</h2>
+      <p class="text-center text-xl text-gray-600 mb-12">所有旅行社跟團都可參考，我幫單身男士挑選最適合的版本</p>
+      <!-- 亞洲與非亞洲旅行社連結保持與上一版完全相同（雄獅、五福、可樂、東南、易遊網） -->
+      <!-- 此處省略重複內容以節省篇幅，實際複製時請保留上一版所有 a 連結 -->
+    </div>
+  </section>
+
+  <!-- 費用說明（完全依照你最後確認版本） -->
+  <section id="price" class="py-20 bg-gray-50">
+    <!-- 費用表格保持上一版內容（旅行社團費全由客人負擔 + 陪伴費20,000 + 客製加10,000 + 亞洲10萬起） -->
+    <!-- 此處省略重複表格以節省篇幅，實際複製時請保留上一版完整表格 -->
+  </section>
+
+  <!-- 新增：Line 線上客服區塊（放在預約前） -->
+  <section class="py-16 bg-pink-50">
+    <div class="max-w-2xl mx-auto px-6 text-center">
+      <h2 class="text-3xl font-bold mb-6">想先聊聊你的夢想行程？</h2>
+      <p class="text-xl mb-8">掃描 Line 直接加我<br><span class="font-bold text-pink-600">皆為本人親自回覆，24小時內回應</span></p>
+      <img src="line-qr.jpg" 
+           alt="優娜伴遊 Line 客服 QR Code - 單身有錢有閑男士私人女友級旅行伴遊預約" 
+           class="mx-auto shadow-2xl rounded-3xl border-8 border-white" 
+           width="300">
+      <p class="mt-8 text-sm text-gray-500”> <img src=“line-qr.jpg" alt="旅遊照片">📱 手機掃描即可加我 → 直接私訊討論你的旅行計畫</p>
+    </div>
+  </section>
+
+  <!-- 立即預約 -->
+  <section id="book" class="py-20 bg-white">
+    <!-- 預約表單保持上一版內容（姓名、地區、服務類型等） -->
+  </section>
+
+  <!-- 安全備注 -->
+  <section class="py-12 bg-white border-t border-gray-200">
+    <div class="max-w-4xl mx-auto px-6 text-center text-lg leading-relaxed">
+      <strong>全程一人一室原則</strong><br>
+      絕無共同過夜安排，讓您睡得安心安穩。<br>
+      全程保障雙方財務與人身安全。<br><br>
+      若有需求，可部分協助加購當地夜晚特殊服務（詳情請私訊討論）。
+    </div>
+  </section>
+
+  <footer class="bg-gray-900 text-white py-12 text-center">
+    <p class="text-lg">© 2026 優娜伴遊｜單身有錢有閑男士 私人女友級旅行伴遊</p>
+    <p class="mt-4 text-sm">有錢有閑卻怕一個人出國？讓我陪你，像女友一樣開心玩世界！</p>
+  </footer>
+
+</body>
+</html>
